@@ -1,4 +1,3 @@
-import react from 'react'
 import CurrentWeatherScreen from './components/CurrentWeatherScreen'
 import ForecastScreen from './components/ForecastScreen'
 import {
